@@ -1,0 +1,190 @@
+﻿#optionsframework-wrap #optionsframework-metabox {
+	float: right;
+	border-width: 0px 0 1px 1px;
+}
+#optionsframework-wrap h2.nav-tab-wrapper {
+	float: right;
+}
+.optionsframework-header > a {
+	float: right;
+}
+.vpanel_social {
+	float: left;
+}
+.vpanel_social li {
+	float: left;
+}
+.vpanel_social li a {
+	float: left;
+	margin: 25px 5px 0 0;
+}
+.optionsframework-header > input.button-primary.vpanel_save {
+	margin: 21px 15px 0 0;
+}
+.vpanel_checkbox {
+	margin-right: 0;
+	margin-left: 10px;
+	float: right;
+}
+.vpanel_multicheck {
+	margin: 0 0 10px 10px;
+	float: right;
+	clear: right;
+}
+#optionsframework .section .controls.controls-upload .upload {
+	float: right;
+}
+.button.upload-button,.button.upload-button:focus,.remove-file.button,.remove-file.button:focus,.no-image a,.no-image a:focus,#builder .widget-content input[type="button"].button.upload-button-2,#builder .widget-content input[type="button"].button.upload-button-2:focus,#builder_slide .widget-content input[type="button"].button.upload-button-2,#builder_slide .widget-content input[type="button"].button.upload-button-2:focus,#builder_rating_ul .widget-content input[type="button"].button.upload-button-2,#builder_rating_ul .widget-content input[type="button"].button.upload-button-2:focus,#sidebar_add,input[type="button"].button.upload-button-2,.rwmb-input input[type="button"].wp-picker-clear,.wp-picker-input-wrap input[type="button"].wp-picker-default,#builder .widget-content input[type="button"].wp-picker-clear,.wp-picker-container .button {
+	float: right;
+	margin: 0 5px 0 0;
+}
+.rwmb-input input[type="button"].button.upload-button-2,.rwmb-input input[type="button"].wp-picker-clear,.wp-picker-container input[type=text].wp-color-picker,.wp-picker-input-wrap input[type="button"].wp-picker-default,#builder .widget-content input[type="button"].wp-picker-clear,.wp-picker-container .button {
+	float: right;
+}
+.rwmb-input input[type="text"].upload_meta,.rwmb-input select {
+	float: right;
+}
+#optionsframework .controls input[type=text].of-color.wp-color-picker {
+	float: right;
+}
+#builder .widget-content input.upload,#builder_slide .widget-content input.upload {
+	float: right;
+	margin-left: 0;
+	margin-right: 0;
+}
+.vpanel_help {
+	float: left;
+}
+.vpanel_help > div {
+	float: left;
+}
+#ajax-saving,#ajax-reset {
+	right: inherit;
+	left: 35%;
+}
+#ajax-saving i,#ajax-reset i {
+	margin-right: 0;
+	margin-left: 20px;
+}
+#ajax-saving i {
+	margin-left: 0;
+	margin-right: -20px;
+	padding-right: 10px;
+	padding-left: 20px;
+}
+#loading {
+	float: left;
+	margin-right: 0;
+	margin-left: 15px;
+}
+/* page builder */
+a.del-builder-item,a.del-cat {
+	float: left;
+	right: inherit;
+	left: 9px;
+}
+a.del-cat {
+	margin-left: 0;
+	margin-right: 6px;
+	float: right;
+}
+a.builder-toggle-open, a.builder-toggle-close,a.cats-toggle-open, a.cats-toggle-close {
+	float: left;
+	left: 50px;
+	right: inherit;
+}
+#optionsframework .section.cat_name .cats-toggle-open,#optionsframework .section.cat_name .cats-toggle-close {
+	left: 10px;
+	right: inherit;
+}
+#builder .widget-content input[type="radio"] {
+	float: right;
+	margin: 3px 0 0 10px;
+}
+.styled-select {
+	clear: left;
+}
+.styled-select::before {
+	left: 5px;
+	right: inherit;
+	border-left: none;
+	border-right: 1px solid #E5E5E5;
+}
+#builder .widget-content label > span,#builder_slide .widget-content label span,#builder_rating_ul .widget-content label span,.builder_setting label span {
+	padding-right: 0;
+	padding-left: 5px;
+	float: right;
+}
+#the_email {
+	float: right;
+}
+.the_email_label {
+	float: right;
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+.builder_the_email {
+	float: right;
+}
+.add-item,a.add_item_radio,a.add_item_select,a.add_item_checkbox {
+	float: right;
+	margin: 5px 0 0 5px;
+}
+#builder .checkbox_select li {
+	float: right;
+}
+.checkbox_select img {
+	margin-right: 0;
+	margin-left: 15px;
+}
+.jquery-grid_1200,.jquery-grid_970,.jquery-site_light,.jquery-site_dark,.jquery-sidebar-default,.jquery-layout-full,.jquery-layout-fixed,.jquery-layout-fixed_2,.jquery-skin-default_color,.jquery-footer_1c,.jquery-footer_2c,.jquery-footer_3c,.jquery-footer_4c,.jquery-footer_5c,.jquery-footer_no,.jquery-sidebar-full,.jquery-sidebar-left,.jquery-sidebar-right,jquery-sidebar-centered {
+	margin-left: 10px;
+	margin-right: 0;
+	float: right;
+}
+.jquery-grid_1200 img,.jquery-grid_970 img,.jquery-site_light img,.jquery-site_dark img,.jquery-sidebar-full img,.jquery-sidebar-right img,.jquery-sidebar-left img,.jquery-sidebar-centered img,.jquery-sidebar-default img,.jquery-layout-full img,.jquery-layout-fixed img,.jquery-layout-fixed_2 img,.jquery-skin-default_color img,.jquery-footer_1c img,.jquery-footer_2c img,.jquery-footer_3c img,.jquery-footer_4c img,.jquery-footer_5c img,.jquery-footer_no img {
+	margin: 0 0 10px 5px;
+}
+.checkbox_select,.checkbox_checkbox,.jquery-grid_1200 .mark,.jquery-grid_970 .mark,.jquery-site_light .mark,.jquery-site_dark .mark,.jquery-sidebar-full .mark,.jquery-sidebar-right .mark,.jquery-sidebar-left .mark,.jquery-sidebar-default .mark,.jquery-layout-full .mark,.jquery-layout-fixed .mark,.jquery-layout-fixed_2 .mark,.jquery-skin-default .mark,.jquery-skin-red .mark,.jquery-skin-green .mark,.jquery-skin-moderate_cyan .mark,.jquery-skin-gray .mark,.jquery-skin-orange .mark,.jquery-skin-purple .mark,.jquery-skin-light_red .mark,.jquery-skin-blue .mark,.jquery-skin-yellow .mark,.jquery-skin-strong_cyan .mark,.jquery-footer_1c .mark,.jquery-footer_2c .mark,.jquery-footer_3c .mark,.jquery-footer_4c .mark,.jquery-footer_no .mark,.jquery-grid_1200,.jquery-grid_970,.jquery-site_light,.jquery-header_gray,.jquery-site_dark,.jquery-sidebar-default,.jquery-layout-full,.jquery-layout-fixed,.jquery-layout-fixed_2,.jquery-skin-default,.jquery-skin-red,.jquery-skin-green,.jquery-skin-moderate_cyan,.jquery-skin-gray,.jquery-skin-orange,.jquery-skin-purple,.jquery-skin-light_red,.jquery-skin-blue,.jquery-skin-yellow,.jquery-skin-strong_cyan,.jquery-footer_1c,.jquery-footer_2c,.jquery-footer_3c,.jquery-footer_4c,.jquery-footer_5c,.jquery-footer_no,.jquery-sidebar-full,.jquery-sidebar-left,.jquery-sidebar-right {
+	float: right;
+}
+.checkbox_checkbox a {
+	float: right;
+	margin-right: 0;
+	margin-left: 7px;
+}
+#collapse-all,#expand-all {
+	float: right;
+	margin: 10px 0 0 10px;
+}
+#optionsframework .section-sidebar .explain {
+	left: 10px;
+	right: inherit;
+}
+#optionsframework .section .controls.controls-sidebar #sidebar_name {
+	float: right;
+}
+#optionsframework .section .controls.controls-sidebar #sidebar_add {
+	float: right;
+}
+.upload-button-widget {
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+}
+.form-field.form-field-images input[type="text"] {
+	float: right;
+}
+.form-field.form-field-images input[type="button"] {
+	margin-left: 0;
+	margin-right: 2%;
+}
+.rwmb-input.vpanel-radio-input input[type=radio] {
+	float: right;
+	clear: right;
+	margin-left: 10px;
+	margin-right: 0;
+}
+.rwmb-input.vpanel-radio-input label.radio_no_margin {
+	float: right;
+	clear: left;
+}

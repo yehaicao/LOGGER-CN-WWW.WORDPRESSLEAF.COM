@@ -1,0 +1,103 @@
+/*------------------------------------------------------------------------------*/
+/*                    width : 768px 
+/*------------------------------------------------------------------------------*/
+@media (min-width: 768px) and (max-width: 992px) {
+	.sections-left-sidebar .main-content,.sections-left-sidebar .sidebar {
+		float: none;
+	}
+	.navigation {
+		display: none;
+	}
+	.navigation_mobile {
+		float: none;
+		clear: both;
+		margin-right: auto;
+		margin-left: auto;
+		text-align: left;
+		display: block;
+	}
+}
+/*------------------------------------------------------------------------------*/
+/*                    Width : 452px
+/*------------------------------------------------------------------------------*/
+@media only screen and (min-width: 452px) and (max-width: 767px) {
+	body {
+		width: 100%;
+	}
+	#header {
+		height: auto;
+		padding-bottom: 30px;
+	}
+	.navigation {
+		display: none;
+	}
+	.navigation_mobile {
+		float: none;
+		clear: both;
+		margin-right: auto;
+		margin-left: auto;
+		display: block;
+	}
+	.sections-left-sidebar .main-content,.sections-left-sidebar .sidebar {
+		float: none;
+	}
+	#footer {
+		height: auto;
+		line-height: normal;
+		text-align: center;
+		padding: 30px 0;
+	}
+	.copyrights,.social-ul {
+		float: none;
+	}
+	#footer .social-ul li {
+		float: none;
+		display: inline-block;
+	}
+}
+/*------------------------------------------------------------------------------*/
+/*                    width : 479px 
+/*------------------------------------------------------------------------------*/
+@media only screen and (max-width: 479px) {
+	body {
+		width: 100%;
+	}
+	#header {
+		height: auto;
+		padding-bottom: 30px;
+		line-height: normal;
+		text-align: center;
+	}
+	.logo {
+		line-height: normal;
+		margin: 28px 0 0;
+		float: none;
+	}
+	.navigation {
+		display: none;
+	}
+	.navigation_mobile {
+		float: none;
+		clear: both;
+		margin-right: auto;
+		margin-left: auto;
+		text-align: left;
+		display: block;
+	}
+	.sections-left-sidebar .main-content,.sections-left-sidebar .sidebar {
+		float: none;
+	}
+	#footer {
+		height: auto;
+		line-height: normal;
+		text-align: center;
+		padding: 30px 0;
+	}
+	.copyrights,.social-ul {
+		float: none;
+	}
+	#footer .social-ul li {
+		float: none;
+		display: inline-block;
+	}
+}

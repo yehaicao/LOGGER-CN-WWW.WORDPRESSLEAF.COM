@@ -1,0 +1,2290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Logger 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-05 00:29+0200\n"
+"PO-Revision-Date: 2015-03-05 00:29+0200\n"
+"Last-Translator: vbegy <vbegy.info@gmail.com>\n"
+"Language-Team: 2codeThemes <vbegy.info@gmail.com>\n"
+"Language: en_EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:6
+msgid "404"
+msgstr ""
+
+#: ../404.php:7
+msgid "We Are Sorry, Page Not Found"
+msgstr ""
+
+#: ../404.php:9 ../archive-portfolio.php:133
+#: ../functions/shortcode_logger.php:422 ../loop.php:151 ../loop.php:211
+#: ../loop.php:265 ../loop.php:497 ../taxonomy-portfolio-category.php:118
+#: ../taxonomy-portfolio_tags.php:118
+msgid "Back To Homepage"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:137
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:395
+#: ../admin/page-builder/box_news.php:57 ../admin/page-builder/box_news.php:78
+#: ../admin/page-builder/box_news.php:119
+#: ../admin/page-builder/box_news.php:140
+#: ../admin/page-builder/box_news.php:186
+#: ../admin/page-builder/box_news.php:207
+#: ../admin/page-builder/box_news.php:248
+#: ../admin/page-builder/box_news.php:261
+#: ../admin/page-builder/box_news.php:300
+#: ../admin/page-builder/box_news.php:343
+#: ../admin/page-builder/box_news.php:356
+#: ../admin/page-builder/box_news.php:397
+#: ../admin/page-builder/box_news.php:438
+#: ../admin/page-builder/box_news.php:483
+#: ../admin/page-builder/box_news.php:496
+#: ../admin/page-builder/recent_posts.php:59
+#: ../admin/page-builder/recent_posts.php:106
+#: ../admin/page-builder/recent_posts.php:147
+#: ../admin/page-builder/scroll_news.php:58
+#: ../admin/page-builder/scroll_news.php:99
+#: ../admin/page-builder/slideshow.php:53
+#: ../admin/page-builder/tabs_news.php:60
+#: ../admin/page-builder/tabs_news.php:81
+#: ../admin/page-builder/tabs_news.php:140
+#: ../admin/page-builder/tabs_news.php:161
+#: ../admin/page-builder/tabs_news.php:225
+#: ../admin/page-builder/tabs_news.php:246
+#: ../admin/page-builder/tabs_news.php:305
+#: ../admin/page-builder/tabs_news.php:318
+#: ../admin/page-builder/tabs_news.php:375
+#: ../admin/page-builder/tabs_news.php:436
+#: ../admin/page-builder/tabs_news.php:449
+#: ../admin/page-builder/tabs_news.php:508
+#: ../admin/page-builder/tabs_news.php:567
+#: ../admin/page-builder/tabs_news.php:630
+#: ../admin/page-builder/tabs_news.php:643 ../attachment.php:37
+#: ../includes/head_full.php:8 ../includes/head_slide.php:141 ../loop.php:189
+#: ../loop.php:245 ../loop.php:402 ../page.php:73 ../single.php:204
+#: ../single.php:263
+msgid "by"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:467
+#: ../admin/functions/main_functions.php:561 ../attachment.php:40
+#: ../author.php:135 ../includes/head_full.php:11
+#: ../includes/head_slide.php:209 ../includes/head_slide.php:282
+#: ../includes/head_slide.php:353 ../loop.php:406 ../page.php:76
+#: ../single-portfolio.php:92 ../single.php:207 ../single.php:562
+msgid "0 Comments"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:467
+#: ../admin/functions/main_functions.php:561 ../attachment.php:40
+#: ../author.php:135 ../includes/head_full.php:11
+#: ../includes/head_slide.php:209 ../includes/head_slide.php:282
+#: ../includes/head_slide.php:353 ../loop.php:406 ../page.php:76
+#: ../single-portfolio.php:92 ../single.php:207 ../single.php:562
+msgid "1 Comment"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:467
+#: ../admin/functions/main_functions.php:561 ../admin/widgets/tabs.php:43
+#: ../attachment.php:40 ../author.php:135 ../comments.php:15
+#: ../includes/head_full.php:11 ../includes/head_slide.php:209
+#: ../includes/head_slide.php:282 ../includes/head_slide.php:353
+#: ../loop.php:406 ../page.php:76 ../single-portfolio.php:92 ../single.php:207
+#: ../single.php:562
+msgid "Comments"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:672
+#: ../admin/functions/register_post.php:50
+#: ../admin/functions/register_post.php:51
+#: ../admin/functions/register_post.php:75
+#: ../admin/functions/register_post.php:76
+#: ../functions/shortcode_logger.php:821
+#: ../woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:673
+msgid "Reply"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:678
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../admin/functions/main_functions.php:708
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:709
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:796
+msgid "Home"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:839
+msgid "Error 404"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:860
+msgid "Search results for "
+msgstr ""
+
+#: ../admin/functions/main_functions.php:862
+msgid "Posts tagged "
+msgstr ""
+
+#: ../admin/functions/main_functions.php:868
+msgid "Error 404 "
+msgstr ""
+
+#: ../admin/functions/main_functions.php:872
+msgid "Page"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:900
+#: ../admin/functions/main_functions.php:908
+msgid "Your avatar"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:914
+msgid "Social Networking"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:917
+msgid "Google +"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:923
+#: ../functions/shortcode_logger.php:270 ../functions/shortcode_logger.php:803
+#: ../header.php:337
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:929
+#: ../functions/shortcode_logger.php:261 ../functions/shortcode_logger.php:799
+#: ../header.php:334
+msgid "Facebook"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:935
+msgid "linkedin"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:941 ../header.php:349
+msgid "Youtube"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1017
+msgid "summary"
+msgstr ""
+
+#: ../admin/functions/main_functions.php:1021
+#: ../admin/functions/main_functions.php:1023
+#: ../admin/functions/main_functions.php:1025
+msgid "rating"
+msgstr ""
+
+#: ../admin/functions/nav_menu.php:5
+msgid "You can use WP menu builder to build menus"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:8 ../admin/functions/page_builder.php:9
+#: ../admin/functions/page_builder.php:10
+msgid "Page slideshow"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:11
+msgid "Page builder"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:12
+msgid "Rating"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:14
+#: ../admin/functions/page_builder.php:15
+msgid "Export and Import"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:17
+#: ../admin/functions/page_builder.php:18
+msgid "Sort the sections"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:87
+msgid "This is ( Page builder , Custom Slideshow )."
+msgstr ""
+
+#: ../admin/functions/page_builder.php:90
+msgid "Import"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:144
+msgid "+ Slideshow"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:145
+msgid "+ Box news"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:146
+msgid "+ Pictures news"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:147
+msgid "+ Tabs box news"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:148
+msgid "+ Scroll news"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:149
+msgid "+ Recent posts"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:151
+msgid "+ Shop box"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:153
+msgid "+ Adv or HTML code"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:154
+msgid "+ Clear"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:155
+msgid "+ Gap"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:159
+msgid "[+] Expand All"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:160
+msgid "[-] Collapse All"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:1143
+msgid "+ Add new slide"
+msgstr ""
+
+#: ../admin/functions/page_builder.php:1193
+msgid "+ Add new review"
+msgstr ""
+
+#: ../admin/functions/register_post.php:10
+#: ../admin/functions/register_post.php:11
+#: ../admin/functions/register_post.php:12
+#: ../admin/functions/register_post.php:13
+msgid "portfolio"
+msgstr ""
+
+#: ../admin/functions/register_post.php:14
+msgid "Add New"
+msgstr ""
+
+#: ../admin/functions/register_post.php:15
+msgid "Add New portfolio"
+msgstr ""
+
+#: ../admin/functions/register_post.php:16
+msgid "New portfolio"
+msgstr ""
+
+#: ../admin/functions/register_post.php:17
+msgid "Edit portfolio"
+msgstr ""
+
+#: ../admin/functions/register_post.php:18
+msgid "View portfolio"
+msgstr ""
+
+#: ../admin/functions/register_post.php:19
+msgid "All portfolio"
+msgstr ""
+
+#: ../admin/functions/register_post.php:20
+msgid "Search portfolio"
+msgstr ""
+
+#: ../admin/functions/register_post.php:21
+msgid "Parent portfolio:"
+msgstr ""
+
+#: ../admin/functions/register_post.php:22
+msgid "No portfolio found."
+msgstr ""
+
+#: ../admin/functions/register_post.php:23
+msgid "No portfolio found in Trash."
+msgstr ""
+
+#: ../admin/functions/register_post.php:44
+#: ../admin/functions/register_post.php:45
+#: ../admin/functions/register_post.php:48
+#: ../admin/functions/register_post.php:49 ../template-sitemaps.php:42
+msgid "Categories"
+msgstr ""
+
+#: ../admin/functions/register_post.php:46
+msgid "Search in categories"
+msgstr ""
+
+#: ../admin/functions/register_post.php:47
+msgid "All categories"
+msgstr ""
+
+#: ../admin/functions/register_post.php:52
+#: ../admin/functions/register_post.php:53
+msgid "Add a new category"
+msgstr ""
+
+#: ../admin/functions/register_post.php:69
+#: ../admin/functions/register_post.php:70
+#: ../admin/functions/register_post.php:73
+#: ../admin/functions/register_post.php:74 ../admin/widgets/tabs.php:46
+#: ../functions/shortcode_logger.php:59 ../functions/shortcode_logger.php:177
+#: ../template-sitemaps.php:58
+msgid "Tags"
+msgstr ""
+
+#: ../admin/functions/register_post.php:71
+msgid "Search in tags"
+msgstr ""
+
+#: ../admin/functions/register_post.php:72
+msgid "All tags"
+msgstr ""
+
+#: ../admin/functions/register_post.php:77
+#: ../admin/functions/register_post.php:78
+msgid "Add new tag"
+msgstr ""
+
+#: ../admin/functions/widget_functions.php:30
+msgid "First footer widget area ( level 1 )"
+msgstr ""
+
+#: ../admin/functions/widget_functions.php:37
+msgid "Second footer widget area ( level 1 )"
+msgstr ""
+
+#: ../admin/functions/widget_functions.php:44
+msgid "Third footer widget area ( level 1 )"
+msgstr ""
+
+#: ../admin/functions/widget_functions.php:51
+msgid "Fourth footer widget area ( level 1 )"
+msgstr ""
+
+#: ../admin/functions/widget_functions.php:59
+msgid "First footer widget area ( level 2 )"
+msgstr ""
+
+#: ../admin/functions/widget_functions.php:66
+msgid "Second footer widget area ( level 2 )"
+msgstr ""
+
+#: ../admin/functions/widget_functions.php:73
+msgid "Third footer widget area ( level 2 )"
+msgstr ""
+
+#: ../admin/functions/widget_functions.php:80
+msgid "Fourth footer widget area ( level 2 )"
+msgstr ""
+
+#: ../admin/includes/class-options-framework-admin.php:173
+msgid "Saving"
+msgstr ""
+
+#: ../admin/includes/class-options-framework-admin.php:174
+msgid "Reseting Options"
+msgstr ""
+
+#: ../admin/includes/class-options-framework-admin.php:183
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../admin/includes/class-options-framework-admin.php:210
+msgid "Default options restored."
+msgstr ""
+
+#: ../admin/includes/class-options-framework-admin.php:264
+msgid "Options saved."
+msgstr ""
+
+#: ../admin/includes/class-options-interface.php:307
+msgid "Size"
+msgstr ""
+
+#: ../admin/includes/class-options-media-uploader.php:60
+msgid "No file chosen"
+msgstr ""
+
+#: ../admin/includes/class-options-media-uploader.php:63
+#: ../admin/includes/class-options-media-uploader.php:111
+msgid "Upload"
+msgstr ""
+
+#: ../admin/includes/class-options-media-uploader.php:65
+#: ../admin/includes/class-options-media-uploader.php:112
+#: ../admin/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ../admin/includes/class-options-media-uploader.php:68
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../admin/includes/class-options-media-uploader.php:92
+msgid "View File"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:242
+msgid "No Repeat"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:243
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:244
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:245
+msgid "Repeat All"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:258
+msgid "Top Left"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:259
+msgid "Top Center"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:260
+msgid "Top Right"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:261
+msgid "Middle Left"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:262
+msgid "Middle Center"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:263
+msgid "Middle Right"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:264
+msgid "Bottom Left"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:265
+msgid "Bottom Center"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:266
+msgid "Bottom Right"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:279
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:280
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:354
+msgid "Style"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:355
+msgid "Normal"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:356
+msgid "Italic"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:357
+msgid "Bold"
+msgstr ""
+
+#: ../admin/includes/class-options-sanitization.php:358
+msgid "Bold Italic"
+msgstr ""
+
+#: ../admin/meta-box/inc/field.php:185
+msgid "+"
+msgstr ""
+
+#: ../admin/meta-box/inc/field.php:202
+msgid "&#8211;"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/post.php:66
+#: ../admin/meta-box/inc/fields/taxonomy.php:40
+#: ../admin/meta-box/inc/fields/user.php:62
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../admin/meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: ../admin/meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../admin/page-builder/box_news.php:33 ../admin/page-builder/box_news.php:95
+#: ../admin/page-builder/box_news.php:158
+#: ../admin/page-builder/box_news.php:224
+#: ../admin/page-builder/box_news.php:278
+#: ../admin/page-builder/box_news.php:319
+#: ../admin/page-builder/box_news.php:373
+#: ../admin/page-builder/box_news.php:414
+#: ../admin/page-builder/box_news.php:455
+#: ../admin/page-builder/pictures_news.php:28
+#: ../admin/page-builder/pictures_news.php:75
+#: ../admin/page-builder/recent_posts.php:33
+#: ../admin/page-builder/recent_posts.php:80
+#: ../admin/page-builder/recent_posts.php:122
+#: ../admin/page-builder/scroll_news.php:32
+#: ../admin/page-builder/scroll_news.php:74
+#: ../admin/page-builder/shop_box.php:34
+msgid "More"
+msgstr ""
+
+#: ../admin/page-builder/box_news.php:62
+#: ../admin/page-builder/box_news.php:124
+#: ../admin/page-builder/box_news.php:191
+#: ../admin/page-builder/box_news.php:253
+#: ../admin/page-builder/box_news.php:305
+#: ../admin/page-builder/box_news.php:348
+#: ../admin/page-builder/box_news.php:488
+#: ../admin/page-builder/recent_posts.php:63
+#: ../admin/page-builder/recent_posts.php:65
+#: ../admin/page-builder/tabs_news.php:65
+#: ../admin/page-builder/tabs_news.php:145
+#: ../admin/page-builder/tabs_news.php:230
+#: ../admin/page-builder/tabs_news.php:310
+#: ../admin/page-builder/tabs_news.php:380
+#: ../admin/page-builder/tabs_news.php:441
+#: ../admin/page-builder/tabs_news.php:635 ../loop.php:194 ../loop.php:196
+#: ../loop.php:251 ../loop.php:484
+msgid "Continue Reading"
+msgstr ""
+
+#: ../admin/page-builder/tabs_news.php:30
+#: ../admin/page-builder/tabs_news.php:110
+#: ../admin/page-builder/tabs_news.php:191
+#: ../admin/page-builder/tabs_news.php:275
+#: ../admin/page-builder/tabs_news.php:347
+#: ../admin/page-builder/tabs_news.php:406
+#: ../admin/page-builder/tabs_news.php:478
+#: ../admin/page-builder/tabs_news.php:537
+#: ../admin/page-builder/tabs_news.php:596
+msgid "Please choose one category at least ."
+msgstr ""
+
+#: ../admin/widgets/counter.php:38
+msgid "Fans"
+msgstr ""
+
+#: ../admin/widgets/counter.php:41 ../admin/widgets/counter.php:50
+#: ../admin/widgets/counter.php:53
+msgid "Followers"
+msgstr ""
+
+#: ../admin/widgets/counter.php:44 ../admin/widgets/counter.php:47
+msgid "Subscribers"
+msgstr ""
+
+#: ../admin/widgets/login.php:41 ../functions/shortcode_logger.php:337
+#: ../woocommerce/global/form-login.php:35
+#: ../woocommerce/myaccount/form-login.php:27
+#: ../woocommerce/myaccount/form-login.php:46
+msgid "Login"
+msgstr ""
+
+#: ../admin/widgets/posts.php:59 ../admin/widgets/posts_big_images.php:60
+#: ../admin/widgets/posts_images.php:52
+#: ../admin/widgets/posts_slideshow.php:52 ../admin/widgets/tabs.php:40
+msgid "Recent"
+msgstr ""
+
+#: ../admin/widgets/signup.php:41 ../functions/shortcode_logger.php:487
+msgid "Signup"
+msgstr ""
+
+#: ../admin/widgets/subscribe.php:31 ../comments.php:49 ../footer.php:185
+#: ../functions/shortcode_logger.php:297
+#: ../woocommerce/order/order-details.php:172
+#: ../woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: ../admin/widgets/subscribe.php:36 ../footer.php:188
+msgid "Subscribe"
+msgstr ""
+
+#: ../admin/widgets/tabs.php:40
+msgid "Popular"
+msgstr ""
+
+#: ../admin/widgets/tabs.php:40
+msgid "Rand"
+msgstr ""
+
+#: ../admin/widgets/twitter.php:23
+msgid "Follow"
+msgstr ""
+
+#: ../admin/widgets/twitter.php:38
+msgid "Loading twitter feed..."
+msgstr ""
+
+#: ../admin/woocommerce/woocommerce.php:99
+msgid "Select options"
+msgstr ""
+
+#: ../admin/woocommerce/woocommerce.php:180
+msgid "Previous product"
+msgstr ""
+
+#: ../admin/woocommerce/woocommerce.php:183
+msgid "Next product"
+msgstr ""
+
+#: ../admin/woocommerce/woocommerce.php:201 ../attachment.php:82
+#: ../loop.php:472 ../page.php:110 ../single-portfolio.php:130
+#: ../single.php:330
+msgid "Share This"
+msgstr ""
+
+#: ../archive-portfolio.php:69 ../loop.php:89 ../template-portfolio.php:77
+msgid "All"
+msgstr ""
+
+#: ../archive-portfolio.php:133 ../taxonomy-portfolio-category.php:118
+#: ../taxonomy-portfolio_tags.php:118
+msgid "Sorry, no projects yet ."
+msgstr ""
+
+#: ../author.php:90
+msgid "Posts"
+msgstr ""
+
+#: ../category.php:20
+msgid "About"
+msgstr ""
+
+#: ../comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:15 ../comments.php:84
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:15
+msgid "No"
+msgstr ""
+
+#: ../comments.php:15
+msgid "1"
+msgstr ""
+
+#: ../comments.php:15
+msgid "%"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:37
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Logged in as"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Log out &raquo;"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Your Name"
+msgstr ""
+
+#: ../comments.php:53
+msgid "URL"
+msgstr ""
+
+#: ../comments.php:68 ../comments.php:75 ../functions/shortcode_logger.php:105
+#: ../functions/shortcode_logger.php:112 ../functions/shortcode_logger.php:113
+#: ../functions/shortcode_logger.php:470 ../functions/shortcode_logger.php:478
+#: ../functions/shortcode_logger.php:479
+msgid "Captcha"
+msgstr ""
+
+#: ../comments.php:75 ../functions/shortcode_logger.php:113
+#: ../functions/shortcode_logger.php:479
+msgid "Click here to update the captcha"
+msgstr ""
+
+#: ../comments.php:76 ../functions/shortcode_logger.php:114
+#: ../functions/shortcode_logger.php:480
+msgid "Click on image to update the captcha ."
+msgstr ""
+
+#: ../comments.php:87
+msgid "Post Comment"
+msgstr ""
+
+#: ../functions.php:842 ../header.php:401
+msgid "Go to..."
+msgstr ""
+
+#: ../functions.php:843
+msgid "Please fill the required field."
+msgstr ""
+
+#: ../functions.php:844 ../functions/functions_logger.php:59
+#: ../functions/functions_logger.php:63 ../functions/functions_logger.php:148
+#: ../functions/functions_logger.php:152 ../functions/shortcode_logger.php:526
+#: ../functions/shortcode_logger.php:530
+msgid "The captcha is incorrect, please try again."
+msgstr ""
+
+#: ../functions.php:845
+msgid "Fill out all the required fields."
+msgstr ""
+
+#: ../functions.php:846
+msgid "Are you sure you want to delete the post?"
+msgstr ""
+
+#: ../functions/functions_logger.php:29
+msgid " ago "
+msgstr ""
+
+#: ../functions/functions_logger.php:55 ../functions/functions_logger.php:144
+#: ../functions/shortcode_logger.php:522
+msgid "There are required fields ( captcha )."
+msgstr ""
+
+#: ../functions/functions_logger.php:98
+msgid "Added been successfully"
+msgstr ""
+
+#: ../functions/functions_logger.php:98
+msgid "Has been added successfully, the post under review ."
+msgstr ""
+
+#: ../functions/functions_logger.php:126 ../functions/functions_logger.php:127
+#: ../functions/functions_logger.php:131 ../functions/functions_logger.php:132
+#: ../functions/functions_logger.php:134 ../functions/functions_logger.php:293
+#: ../functions/functions_logger.php:296 ../functions/functions_logger.php:298
+#: ../functions/functions_logger.php:299 ../functions/functions_logger.php:302
+#: ../functions/functions_logger.php:412 ../functions/functions_logger.php:413
+#: ../functions/shortcode_logger.php:611 ../functions/shortcode_logger.php:684
+msgid "Error"
+msgstr ""
+
+#: ../functions/functions_logger.php:126
+msgid "There are required fields ( username )."
+msgstr ""
+
+#: ../functions/functions_logger.php:127
+msgid "There are required fields ( email )."
+msgstr ""
+
+#: ../functions/functions_logger.php:131 ../functions/functions_logger.php:298
+msgid "There are required fields ( title )."
+msgstr ""
+
+#: ../functions/functions_logger.php:132 ../functions/functions_logger.php:299
+msgid "There are required fields ( category )."
+msgstr ""
+
+#: ../functions/functions_logger.php:134 ../functions/functions_logger.php:302
+msgid "There are required fields ( comment )."
+msgstr ""
+
+#: ../functions/functions_logger.php:171
+msgid "Error in post."
+msgstr ""
+
+#: ../functions/functions_logger.php:187 ../functions/functions_logger.php:332
+msgid "Attachment Error: "
+msgstr ""
+
+#: ../functions/functions_logger.php:265
+msgid "Edited been successfully"
+msgstr ""
+
+#: ../functions/functions_logger.php:265
+msgid "Has been edited successfully ."
+msgstr ""
+
+#: ../functions/functions_logger.php:293 ../template-edit_post.php:20
+#: ../template-edit_post.php:23
+msgid "Sorry you can't edit this post ."
+msgstr ""
+
+#: ../functions/functions_logger.php:296
+msgid "Sorry no post select or not found ."
+msgstr ""
+
+#: ../functions/functions_logger.php:412
+msgid "There are required fields."
+msgstr ""
+
+#: ../functions/functions_logger.php:413 ../functions/shortcode_logger.php:514
+msgid "Password does not match."
+msgstr ""
+
+#: ../functions/functions_logger.php:430 ../functions/shortcode_logger.php:541
+msgid "Error in upload the image : "
+msgstr ""
+
+#: ../functions/functions_logger.php:446
+msgid "Profile has been updated"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:18 ../functions/shortcode_logger.php:141
+msgid "You must login to add post ."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:40 ../functions/shortcode_logger.php:332
+#: ../functions/shortcode_logger.php:434 ../functions/shortcode_logger.php:635
+#: ../woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:42
+msgid "Please type your username ."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:46 ../functions/shortcode_logger.php:438
+#: ../functions/shortcode_logger.php:639 ../functions/shortcode_logger.php:751
+msgid "E-Mail"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:48
+msgid "Please type your E-Mail ."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:52
+msgid "Post Title"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:54 ../functions/shortcode_logger.php:172
+msgid ""
+"Please choose an appropriate title for the post to answer it even easier ."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:61 ../functions/shortcode_logger.php:179
+msgid "Please choose  suitable Keywords Ex : "
+msgstr ""
+
+#: ../functions/shortcode_logger.php:61 ../functions/shortcode_logger.php:179
+msgid "post , video"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:66 ../functions/shortcode_logger.php:184
+msgid "Category"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:68 ../functions/shortcode_logger.php:186
+msgid "Select a Category"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:70 ../functions/shortcode_logger.php:188
+msgid "Please choose the appropriate section so easily search for your post ."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:74 ../functions/shortcode_logger.php:201
+msgid "Attachment"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:78 ../functions/shortcode_logger.php:205
+#: ../functions/shortcode_logger.php:456
+msgid "Select file"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:79 ../functions/shortcode_logger.php:206
+#: ../functions/shortcode_logger.php:457
+msgid "Browse"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:88 ../functions/shortcode_logger.php:194
+msgid "Details"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:90 ../functions/shortcode_logger.php:196
+msgid "Type the description thoroughly and in details ."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:122
+msgid "Publish Your Post"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:141
+#: ../woocommerce/myaccount/form-login.php:65
+#: ../woocommerce/myaccount/form-login.php:102
+msgid "Register"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:170
+msgid "post Title"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:217
+msgid "Edit Your post"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:252
+msgid "Welcome"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:255
+msgid "Profile page"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:256
+msgid "Edit profile"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:257
+msgid "Logout"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:279 ../functions/shortcode_logger.php:807
+#: ../header.php:343
+msgid "Linkedin"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:288 ../functions/shortcode_logger.php:811
+msgid "Google plus"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:333 ../functions/shortcode_logger.php:442
+#: ../functions/shortcode_logger.php:759
+#: ../woocommerce/global/form-login.php:26
+#: ../woocommerce/myaccount/form-login.php:38
+#: ../woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:336
+msgid "Remember Me"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:362
+msgid "<strong>Error :&nbsp;</strong>please insert your name ."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:365
+msgid "<strong>Error :&nbsp;</strong>please insert your password ."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:422
+msgid "You are already registered !"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:446 ../functions/shortcode_logger.php:763
+msgid "Confirm Password"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:452 ../functions/shortcode_logger.php:781
+msgid "Profile Picture"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:510 ../functions/shortcode_logger.php:658
+msgid "Please enter your name."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:511 ../functions/shortcode_logger.php:659
+msgid "Please enter your email."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:512
+msgid "Please enter your password."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:513
+msgid "Please rewrite password."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:546
+msgid "There are required fields ( Profile Picture )."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:551
+msgid "Wrong name."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:553 ../functions/shortcode_logger.php:559
+msgid "This account is already registered."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:557
+msgid "Please write correctly email."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:569
+msgid ""
+"<strong>Error</strong>: Sorry can not register please contact the webmaster "
+msgstr ""
+
+#: ../functions/shortcode_logger.php:585 ../functions/shortcode_logger.php:592
+msgid "Hi there"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:587
+msgid "This is the link to activate your membership"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:589
+msgid "Activate"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:644
+msgid "Reset"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:661 ../functions/shortcode_logger.php:666
+msgid "Name or Email is not correct."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:675
+msgid "You are :"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:676
+msgid "The New Password :"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:677
+msgid "Your password"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:686
+msgid "A reset password will be sent to this email address"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:721
+msgid "Please login to edit profile ."
+msgstr ""
+
+#: ../functions/shortcode_logger.php:743
+msgid "First Name"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:747
+msgid "Last Name"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:755
+msgid "Website"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:767
+msgid "Country"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:771
+msgid "Follow-up email"
+msgstr ""
+
+#: ../functions/shortcode_logger.php:793
+msgid "About Yourself"
+msgstr ""
+
+#: ../header.php:267
+msgid "Search here ..."
+msgstr ""
+
+#: ../header.php:328
+msgid "Follow Us"
+msgstr ""
+
+#: ../header.php:340
+msgid "Google Plus"
+msgstr ""
+
+#: ../header.php:346
+msgid "Dribbble"
+msgstr ""
+
+#: ../header.php:352
+msgid "Vimeo"
+msgstr ""
+
+#: ../header.php:355
+msgid "Skype"
+msgstr ""
+
+#: ../header.php:358
+msgid "Flickr"
+msgstr ""
+
+#: ../header.php:361
+msgid "Soundcloud"
+msgstr ""
+
+#: ../header.php:364
+msgid "Instagram"
+msgstr ""
+
+#: ../header.php:367
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/head_full.php:13 ../loop.php:410 ../single-portfolio.php:95
+#: ../single.php:209
+msgid "in"
+msgstr ""
+
+#: ../includes/head_full.php:21 ../loop.php:420 ../single-portfolio.php:104
+#: ../single.php:217
+msgid "You already like this"
+msgstr ""
+
+#: ../includes/head_full.php:21 ../loop.php:420 ../single-portfolio.php:104
+#: ../single.php:217
+msgid "Love"
+msgstr ""
+
+#: ../includes/head_slide.php:72
+msgid "Breaking News"
+msgstr ""
+
+#: ../includes/pagination.php:10
+msgid "Old Entries"
+msgstr ""
+
+#: ../includes/pagination.php:13
+msgid "New Entries"
+msgstr ""
+
+#: ../loop.php:151 ../loop.php:211 ../loop.php:265 ../loop.php:497
+msgid "Sorry, no posts yet ."
+msgstr ""
+
+#: ../loop.php:466 ../page.php:105 ../single-portfolio.php:124
+#: ../single.php:325
+msgid "Views"
+msgstr ""
+
+#: ../single-portfolio.php:89
+msgid "Client"
+msgstr ""
+
+#: ../single-portfolio.php:155
+msgid "Skills :"
+msgstr ""
+
+#: ../single-portfolio.php:159
+msgid "View Project"
+msgstr ""
+
+#: ../single-portfolio.php:193
+msgid "Previous project"
+msgstr ""
+
+#: ../single-portfolio.php:196
+msgid "Next project"
+msgstr ""
+
+#: ../single-portfolio.php:288
+msgid "Related Projects"
+msgstr ""
+
+#: ../single.php:182 ../single.php:240
+msgid "Edit the post"
+msgstr ""
+
+#: ../single.php:193 ../single.php:251
+msgid "Delete the post"
+msgstr ""
+
+#: ../single.php:380
+msgid "Previous article"
+msgstr ""
+
+#: ../single.php:383
+msgid "Next article"
+msgstr ""
+
+#: ../single.php:518
+msgid "Related Posts"
+msgstr ""
+
+#: ../template-edit_post.php:26
+msgid "Sorry no post has you select or not found ."
+msgstr ""
+
+#: ../template-sitemaps.php:11
+msgid "Latest Posts"
+msgstr ""
+
+#: ../template-sitemaps.php:26
+msgid "Archive by Month"
+msgstr ""
+
+#: ../template-sitemaps.php:34
+msgid "Archive by Year"
+msgstr ""
+
+#: ../template-sitemaps.php:50
+msgid "Authors"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:16 ../woocommerce/cart/untitled
+#: folder/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:20 ../woocommerce/cart/untitled
+#: folder/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:20 ../woocommerce/cart/untitled
+#: folder/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:22 ../woocommerce/cart/untitled
+#: folder/cart-shipping.php:22
+msgid "Shipping and Handling"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:59 ../woocommerce/cart/untitled
+#: folder/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:63 ../woocommerce/cart/untitled
+#: folder/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:67 ../woocommerce/cart/untitled
+#: folder/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:76
+#: ../woocommerce/cart/cart-shipping.php:82 ../woocommerce/cart/untitled
+#: folder/cart-shipping.php:76 folder/cart-shipping.php:82
+msgid ""
+"There don&lsquo;t seem to be available shipping methods. Please double check "
+"your address, or contact us if you need any help."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:97 ../woocommerce/cart/untitled
+#: folder/cart-shipping.php:97
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:19 ../woocommerce/cart/untitled
+#: folder/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:24 ../woocommerce/cart/untitled
+#: folder/cart-totals.php:24 ../woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:71 ../woocommerce/cart/untitled
+#: folder/cart-totals.php:71 ../woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:83 ../woocommerce/cart/untitled
+#: folder/cart-totals.php:83
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:86 ../woocommerce/cart/untitled
+#: folder/cart-totals.php:86
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:27 ../woocommerce/cart/untitled
+#: folder/cart.php:27 ../woocommerce/checkout/form-pay.php:17
+#: ../woocommerce/checkout/review-order.php:17
+#: ../woocommerce/emails/admin-cancelled-order.php:22
+#: ../woocommerce/emails/admin-new-order.php:27
+#: ../woocommerce/emails/customer-completed-order.php:27
+#: ../woocommerce/emails/customer-invoice.php:31
+#: ../woocommerce/emails/customer-note.php:31
+#: ../woocommerce/emails/customer-processing-order.php:27
+#: ../woocommerce/order/order-details.php:21
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:28 ../woocommerce/cart/untitled
+#: folder/cart.php:28 ../woocommerce/emails/admin-cancelled-order.php:24
+#: ../woocommerce/emails/admin-new-order.php:29
+#: ../woocommerce/emails/customer-completed-order.php:29
+#: ../woocommerce/emails/customer-invoice.php:33
+#: ../woocommerce/emails/customer-note.php:33
+#: ../woocommerce/emails/customer-processing-order.php:29
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:29 ../woocommerce/cart/untitled
+#: folder/cart.php:29 ../woocommerce/emails/admin-cancelled-order.php:23
+#: ../woocommerce/emails/admin-new-order.php:28
+#: ../woocommerce/emails/customer-completed-order.php:28
+#: ../woocommerce/emails/customer-invoice.php:32
+#: ../woocommerce/emails/customer-note.php:32
+#: ../woocommerce/emails/customer-processing-order.php:28
+#: ../woocommerce/single-product/add-to-cart/simple.php:31
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:30 ../woocommerce/cart/untitled
+#: folder/cart.php:30 ../woocommerce/checkout/review-order.php:18
+#: ../woocommerce/myaccount/my-orders.php:35
+#: ../woocommerce/order/order-details.php:22
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:47 ../woocommerce/cart/mini-cart.php:35
+#: ../woocommerce/cart/untitled folder/cart.php:47 folder/mini-cart.php:35
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:74 ../woocommerce/cart/untitled
+#: folder/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:119 ../woocommerce/cart/untitled
+#: folder/cart.php:119
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:119 ../woocommerce/cart/untitled
+#: folder/cart.php:119 ../woocommerce/checkout/form-coupon.php:23
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:119 ../woocommerce/cart/untitled
+#: folder/cart.php:119 ../woocommerce/checkout/form-coupon.php:27
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:127 ../woocommerce/cart/untitled
+#: folder/cart.php:127
+msgid "Empty Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:129 ../woocommerce/cart/untitled
+#: folder/cart.php:129
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:38 ../woocommerce/cart/untitled
+#: folder/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:57 ../woocommerce/cart/untitled
+#: folder/mini-cart.php:57
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:65 ../woocommerce/cart/untitled
+#: folder/mini-cart.php:65
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:70 ../woocommerce/cart/untitled
+#: folder/mini-cart.php:70
+msgid "View Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:71 ../woocommerce/cart/untitled
+#: folder/mini-cart.php:71
+msgid "Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:20 ../woocommerce/cart/untitled
+#: folder/shipping-calculator.php:20
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:26 ../woocommerce/cart/untitled
+#: folder/shipping-calculator.php:26
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:43
+#: ../woocommerce/cart/shipping-calculator.php:49
+#: ../woocommerce/cart/shipping-calculator.php:61 ../woocommerce/cart/untitled
+#: folder/shipping-calculator.php:43 folder/shipping-calculator.php:49
+#: folder/shipping-calculator.php:61
+msgid "State / county"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:50 ../woocommerce/cart/untitled
+#: folder/shipping-calculator.php:50
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:70 ../woocommerce/cart/untitled
+#: folder/shipping-calculator.php:70
+msgid "City"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:78 ../woocommerce/cart/untitled
+#: folder/shipping-calculator.php:78
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:83 ../woocommerce/cart/untitled
+#: folder/shipping-calculator.php:83
+msgid "Update Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:20
+msgid "Return To Cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:19
+msgid "Billing Details"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:49
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:16
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:16
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:18
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:19
+msgid "Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:52
+msgid "Payment"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:77
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:87
+msgid "Pay for order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:55
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:16
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:20
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:26
+#: ../woocommerce/myaccount/my-orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:28
+msgid "My Account"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:34
+#: ../woocommerce/checkout/thankyou.php:65
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:38
+msgid "Order:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:42
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:46
+msgid "Total:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:51
+msgid "Payment method:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-cancelled-order.php:13
+#: ../woocommerce/emails/plain/admin-cancelled-order.php:15
+#, php-format
+msgid "The order #%d from %s has been cancelled. The order was as follows:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-cancelled-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:18
+#: ../woocommerce/emails/plain/admin-new-order.php:16
+#, php-format
+msgid "You have received an order from %s. The order is as follows:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:22
+#: ../woocommerce/emails/customer-completed-order.php:22
+#: ../woocommerce/emails/customer-invoice.php:26
+#: ../woocommerce/emails/customer-note.php:26
+#: ../woocommerce/emails/customer-processing-order.php:22
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-completed-order.php:18
+#: ../woocommerce/emails/plain/customer-completed-order.php:16
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-invoice.php:20
+#: ../woocommerce/emails/plain/customer-invoice.php:17
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-invoice.php:20
+msgid "pay"
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:18
+#: ../woocommerce/emails/plain/customer-new-account.php:16
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:22
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:26
+#: ../woocommerce/emails/plain/customer-new-account.php:21
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: ../woocommerce/emails/customer-note.php:18
+#: ../woocommerce/emails/plain/customer-note.php:16
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-note.php:22
+#: ../woocommerce/emails/plain/customer-note.php:24
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: ../woocommerce/emails/customer-processing-order.php:18
+#: ../woocommerce/emails/plain/customer-processing-order.php:16
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:18
+#: ../woocommerce/emails/plain/customer-reset-password.php:16
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:19
+#: ../woocommerce/emails/plain/customer-reset-password.php:18
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:20
+#: ../woocommerce/emails/plain/customer-reset-password.php:19
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:21
+#: ../woocommerce/emails/plain/customer-reset-password.php:20
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:24
+msgid "Click here to reset your password"
+msgstr ""
+
+#: ../woocommerce/emails/email-addresses.php:20
+#: ../woocommerce/emails/plain/email-addresses.php:14
+msgid "Billing address"
+msgstr ""
+
+#: ../woocommerce/emails/email-addresses.php:30
+#: ../woocommerce/emails/plain/email-addresses.php:19
+msgid "Shipping address"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:25
+msgid "Product Image"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:54
+#: ../woocommerce/emails/plain/email-order-items.php:49
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:56
+#: ../woocommerce/emails/plain/email-order-items.php:51
+msgid "Download"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-cancelled-order.php:21
+#: ../woocommerce/emails/plain/admin-new-order.php:22
+#: ../woocommerce/emails/plain/customer-completed-order.php:22
+#: ../woocommerce/emails/plain/customer-invoice.php:23
+#: ../woocommerce/emails/plain/customer-note.php:30
+#: ../woocommerce/emails/plain/customer-processing-order.php:22
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-cancelled-order.php:22
+#: ../woocommerce/emails/plain/admin-new-order.php:23
+#, php-format
+msgid "Order link: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-cancelled-order.php:23
+#: ../woocommerce/emails/plain/admin-new-order.php:24
+#: ../woocommerce/emails/plain/customer-completed-order.php:23
+#: ../woocommerce/emails/plain/customer-invoice.php:24
+#: ../woocommerce/emails/plain/customer-note.php:31
+#: ../woocommerce/emails/plain/customer-processing-order.php:23
+#, php-format
+msgid "Order date: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-cancelled-order.php:23
+#: ../woocommerce/emails/plain/admin-new-order.php:24
+msgid "jS F Y"
+msgstr ""
+
+#: ../woocommerce/emails/plain/customer-new-account.php:19
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: ../woocommerce/emails/plain/email-order-items.php:35
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/email-order-items.php:38
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:22
+#: ../woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:38
+#: ../woocommerce/myaccount/form-login.php:48
+msgid "Remember me"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:42
+#: ../woocommerce/myaccount/form-login.php:52
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:15
+#: ../woocommerce/single-product/sale-flash.php:15
+msgid "Out"
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:20
+#: ../woocommerce/single-product/sale-flash.php:20
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:23
+msgid "First name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:27
+msgid "Last name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:33
+#: ../woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:38
+msgid "Password Change"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:41
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:45
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:49
+msgid "Confirm New Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:59
+msgid "Save changes"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:16
+#: ../woocommerce/myaccount/my-address.php:19
+#: ../woocommerce/myaccount/my-address.php:25
+#: ../woocommerce/order/order-details.php:193
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:16
+#: ../woocommerce/myaccount/my-address.php:20
+#: ../woocommerce/order/order-details.php:212
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:44
+msgid "Save Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:48
+msgid "Reset Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:48
+msgid "Save"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:20
+msgid "Available downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:75
+msgid "Cancel"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:81
+msgid "View"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:19
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:23
+#: ../woocommerce/order/tracking.php:23
+msgid "Order Updates"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:29
+#: ../woocommerce/order/tracking.php:29
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: ../woocommerce/order/order-again.php:16
+msgid "Order Again"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:17
+msgid "Order Details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:60
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:126
+#: ../woocommerce/order/order-details.php:130
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:148
+msgid "Refunded:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:157
+msgid "Note:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:167
+msgid "Customer details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:172
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:176
+msgid "Telephone:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:176
+msgid "Telephone"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:198
+#: ../woocommerce/order/order-details.php:217
+#: ../woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:12
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:12
+msgid "ago"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:14
+msgid "and was completed"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:14
+msgid " ago"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:95
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:93
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:32
+msgid "Reviews :"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:33
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:35
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:28
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:29
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:36
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:46
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""

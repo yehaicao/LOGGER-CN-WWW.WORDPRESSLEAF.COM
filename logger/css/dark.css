@@ -1,0 +1,19 @@
+/* Dark */
+body,.boxed,.boxed-2 {
+	background-color: #263241;
+}
+#header,.widget,.post-head,.post-wrap,.page-navigation div div,.post-style-7.post {
+	-webkit-box-shadow: 0 0 5px 0 #4c5663;
+	-moz-box-shadow: 0 0 5px 0 #4c5663;
+	box-shadow: 0 0 5px 0 #4c5663;
+	border-color: #4b5562;
+}
+.related.products .main-title > h4,.crumbs .current,.product_title.entry-title,.summary .woocommerce-product-rating h4 a:hover {
+	color: #FFF;
+}
+.crumbs a,.woocommerce-page .product .woocommerce-woo-price del span,.woocommerce .woocommerce-sort-by .woocommerce-result-count {
+	color: #a3a9b0;
+}
+.summary .woocommerce-product-rating,.related.products .main-title > h4 {
+	border-bottom-color: #5b6573;
+}

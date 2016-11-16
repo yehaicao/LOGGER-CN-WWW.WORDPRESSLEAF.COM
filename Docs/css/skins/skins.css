@@ -1,0 +1,21 @@
+::-moz-selection {
+    background: #e74c3c;
+}
+::selection {
+    background: #e74c3c;
+}
+.social-ul li a:hover,.go-up,.widget-about,.post-type,.button,.post-quote .post-wrap,.post-link .post-inner.link,.post-gallery .post-img .bx-controls-direction a:hover,.widget-dribbble .bx-controls-direction a:hover,.related-posts .bx-controls-direction a:hover,.post-soundcloud .post-img,.post-twitter .post-img,.widget-posts-img a:before,.widget_tag_cloud a:hover,.widget-login-password a:hover,.navigation.navigation-2 li:hover ul,.related-post-one:hover .related-post-type,.blockquote-2 {
+	background-color: #e74c3c;
+}
+.color,.logo a,.navigation li:hover > a,.navigation li ul li:hover > a,.navigation li.current_page_item > a,.navigation li ul li.current_page_item > a,.navigation.navigation-2 > ul > li.current_page_item > a,.navigation.navigation-2 > ul > li:hover > a,.copyrights a,.post-meta div a,.post-head > h3 a:hover,.post-meta div span,.widget li a:hover,.widget li a:hover i,.widget-posts-content span a,.widget .widget-comments-content > a,.page-404 h2,.related-post-head span a,.commentlist li.comment .comment-body .comment-text .author span,.commentlist li.comment .comment-body .comment-text .author span a,blockquote .author,.post-meta .post-tags a:hover,.post a:hover,.accordion-archive ul li:hover:before,.navigation_mobile > ul li:hover > a,.navigation_mobile > ul li:hover:before,.navigation_mobile > ul li:hover > a > span i,.navigation_mobile_click:hover,.navigation_mobile_click:hover:before,.widget li.current a,.widget li.current a i,.post-inner section a {
+	color: #e74c3c;
+}
+.loader_html,.widget_tag_cloud a:hover,.related-posts .bx-controls-direction a:hover,blockquote {
+	border-color: #e74c3c;
+}
+.post-quote-top,.post-quote-bottom,.post-link .post-inner.link .fa-link,.widget .widget-posts-img i.fa {
+	color: #d82425;
+}
+.widget-about-img {
+	border-color: #d82425;
+}
