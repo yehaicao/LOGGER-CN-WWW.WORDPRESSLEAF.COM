@@ -37,4 +37,4 @@ github *    | [**github**](https://github.com/yehaicao/LOGGER-CN-WWW.WORDPRESSLE
 
 
 ## 关于
-WordPress主题OWL中文版为 [**WordPress Leaf**](http://www.wordpressleaf.com/) [**The Most Special Name**](http://themostspecialname.com/) 联合出品。
+WordPress主题LOGGER中文版为 [**WordPress Leaf**](http://www.wordpressleaf.com/) [**The Most Special Name**](http://themostspecialname.com/) 联合出品。
